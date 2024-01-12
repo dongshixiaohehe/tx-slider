@@ -12,4 +12,4 @@ TDC纯算法,腾讯滑块 ，腾讯点选 ，collect，eks
 ![image](https://github.com/dongshixiaohehe/tx-slider/assets/46911146/94fbbb42-c82c-4368-a2cf-a0988d8efd9e)
 ![image](https://github.com/dongshixiaohehe/tx-slider/assets/46911146/cc36751e-dd4d-4ebe-97f2-bbaa66888495)
 
-qq:1095087360
+飞机 https://t.me/dada123api
