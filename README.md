@@ -1,6 +1,6 @@
 
 # tx-slider
-TDC纯算法,腾讯滑块 ， 腾讯点选 ，collect，eks
+TDC纯算法,腾讯滑块 ， 腾讯点选 ，collect， eks
 联系 飞机： https://t.me/dada123api
 
 ![1693360179535](https://github.com/dongshixiaohehe/tx-slider/assets/46911146/6e3f6e1d-6bfd-43c4-8453-25fb06d9c678)
